@@ -3749,6 +3749,7 @@
     },
     {
         "id": "3399825",
+        "raw_text": "Increased in vitro tetraploidy and mandibular osteomas in patients with and without colorectal diseases.\n\nOne hundred and seventy-six individuals with various colorectal diseases were investigated simultaneously for increased in vitro tetraploidy in dermal fibroblast cultures and for occult mandibular osteomas. In only 10 of the 176 persons were both presumed markers of colorectal genetic predisposition present in the same individual. No evidence was found that these traits are causally associated. A combination of the two presumed markers showed a tendency towards occurrence in individuals with a positive family history of colorectal cancer among first-degree relatives.\n",
         "token": [
             "Increased",
             "in",
@@ -84828,6 +84829,7 @@
     },
     {
         "id": "22575968",
+        "raw_text": "Assessing disease risk in genome-wide association studies using family history.\n\nWe show how to use reports of cancer in family members to discover additional genetic associations or confirm previous findings in genome-wide association (GWA) studies conducted in case-control, cohort, or cross-sectional studies. Our novel family history-based approach allows economical association studies for multiple cancers, without genotyping of relatives (as required in family studies), follow-up of participants (as required in cohort studies), or oversampling of specific cancer cases (as required in case-control studies). We empirically evaluate the performance of the proposed family history-based approach in studying associations with prostate and ovarian cancers, using data from GWA studies previously conducted within the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial. The family history-based method may be particularly useful for investigating genetic susceptibility to rare diseases for which accruing cases may be very difficult, by using disease information from nongenotyped relatives of participants in multiple case-control and cohort studies designed primarily for other purposes.\n",
         "token": [
             "Assessing",
             "disease",
@@ -94133,6 +94135,7 @@
     },
     {
         "id": "26710976",
+        "raw_text": "Mismatch repair defects and Lynch syndrome: The role of the basic scientist in the battle against cancer.\n\nWe have currently entered a genomic era of cancer research which may soon lead to a genomic era of cancer treatment. Patient DNA sequencing information may lead to a personalized approach to managing an individual's cancer as well as future cancer risk. The success of this approach, however, begins not necessarily in the clinician's office, but rather at the laboratory bench of the basic scientist. The basic scientist plays a critical role since the DNA sequencing information is of limited use unless one knows the function of the gene that is altered and the manner by which a sequence alteration affects that function. The role of basic science research in aiding the clinical management of a disease is perhaps best exemplified by considering the case of Lynch syndrome, a hereditary disease that predisposes patients to colorectal and other cancers. This review will examine how the diagnosis, treatment and even prevention of Lynch syndrome-associated cancers has benefitted from extensive basic science research on the DNA mismatch repair genes whose alteration underlies this condition.\n",
         "token": [
             "Mismatch",
             "repair",
@@ -96356,6 +96359,7 @@
     },
     {
         "id": "17007003",
+        "raw_text": "Collision tumor of the rectum: a case report of metastatic gastric adenocarcinoma plus primary rectal adenocarcinoma.\n\nCollision tumors are thought to arise from the accidental meeting and interpenetration of two independent tumors. We report here a highly unusual case of a 61-year old man who had a unique tumor that was composed of a metastatic adenocarcinoma from the stomach to the rectum, which harbored a collision tumor of primary rectal adenocarcinoma. The clonalities of the two histologically distinct lesions of the rectal mass were confirmed by immunohistochemical and molecular analysis. Although histologic examination is the cornerstone in pathology, immunohistochemical and molecular analysis can provide evidence regarding whether tumors originate from the same clone or different clones. To the best of our knowledge, this is the first reported case of such an occurrence.\n",
         "token": [
             "Collision",
             "tumor",
@@ -100599,6 +100603,7 @@
     },
     {
         "id": "7557155",
+        "raw_text": "DNA mismatch repair and cancer.\n\nThe genetic basis of cancer involves certain classes of genes, particularly oncogenes, tumor-suppressor genes, and DNA mismatch repair genes. Originally identified in bacteria and yeast, the human homologues of DNA mismatch repair genes have been implicated in the pathogenesis of the hereditary nonpolyposis colorectal cancer syndromes, as well as a variety of different sporadic cancers. An appreciation of their role in cancer is predicated on an understanding of their function in the processes of DNA repair. This article reviews the recent developments and advances in the biology of the human DNA mismatch repair genes and their involvement in the pathogenesis of cancer.\n",
         "token": [
             "DNA",
             "mismatch",

@@ -1,6 +1,7 @@
 [
     {
         "id": "23159251",
+        "raw_text": "An exponential combination procedure for set-based association tests in sequencing studies. State-of-the-art next-generation-sequencing technologies can facilitate in-depth explorations of the human genome by investigating both common and rare variants. For the identification of genetic factors that are associated with disease risk or other complex phenotypes, methods have been proposed for jointly analyzing variants in a set (e.g., all coding SNPs in a gene). Variants in a properly defined set could be associated with risk or phenotype in a concerted fashion, and by accumulating information from them, one can improve power to detect genetic risk factors. Many set-based methods in the literature are based on statistics that can be written as the summation of variant statistics. Here, we propose taking the summation of the exponential of variant statistics as the set summary for association testing. From both Bayesian and frequentist perspectives, we provide theoretical justification for taking the sum of the exponential of variant statistics because it is particularly powerful for sparse alternatives-that is, compared with the large number of variants being tested in a set, only relatively few variants are associated with disease risk-a distinctive feature of genetic data. We applied the exponential combination gene-based test to a sequencing study in anticancer pharmacogenomics and uncovered mechanistic insights into genes and pathways related to chemotherapeutic susceptibility for an important class of oncologic drugs.",
         "token": [
             "An",
             "exponential",
@@ -532,6 +533,7 @@
     },
     {
         "id": "8318995",
+        "raw_text": "Sporadic alleles, including a novel mutation, characterize beta-thalassemia in Ashkenazi Jews.",
         "token": [
             "Sporadic",
             "alleles",
@@ -1097,6 +1099,7 @@
     },
     {
         "id": "8940261",
+        "raw_text": "The extent, mechanism, and consequences of genetic variation, for recombination rate.",
         "token": [
             "The",
             "extent",
@@ -4266,6 +4269,7 @@
     },
     {
         "id": "8352278",
+        "raw_text": "Statistical evaluation of multiple-locus linkage data in experimental species and its relevance to human studies: application to nonobese diabetic (NOD) mouse and human insulin-dependent diabetes mellitus (IDDM). Common, familial human disorders generally do not follow Mendelian inheritance patterns, presumably because multiple loci are involved in disease susceptibility. One approach to mapping genes for such traits in humans is to first study an analogous form in an animal model, such as mouse, by using inbred strains and backcross experiments. Here we describe methodology for analyzing multiple-locus linkage data from such experimental backcrosses, particularly in light of multilocus genetic models, including the effects of epistasis. We illustrate these methods by using data from backcrosses involving nonobese diabetic mouse, which serves as an animal model for human insulin-dependent diabetes mellitus. We show that it is likely that a minimum of nine loci contribute to susceptibility, with strong epistasis effects among these loci. Three of the loci actually confer a protective effect in the homozygote, compared with the heterozygote. Further, we discuss the relevance of these studies for analogous studies of the human form of the trait. Specifically, we show that the magnitude of the gene effect in the experimental backcross is likely to correlate only weakly, at best, with the expected magnitude of effect for a human form, because in humans the gene effect will depend more heavily on disease allele frequencies than on the observed penetrance ratios; such allele frequencies are unpredictable. Hence, the major benefit from animal studies may be a better understanding of the disease process itself, rather than identification of cells through comparison mapping in humans by using regions of homology.",
         "token": [
             "Statistical",
             "evaluation",
@@ -4897,6 +4901,7 @@
     },
     {
         "id": "1609807",
+        "raw_text": "Anticipation legitimized: unstable DNA to the rescue.",
         "token": [
             "Anticipation",
             "legitimized",
@@ -4922,6 +4927,7 @@
     },
     {
         "id": "11951177",
+        "raw_text": "High-throughput analysis of subtelomeric chromosome rearrangements by use of array-based comparative genomic hybridization. Telomeric chromosome rearrangements may cause mental retardation, congenital anomalies, and miscarriages. Automated detection of subtle deletions or duplications involving telomeres is essential for high-throughput diagnosis, but impossible when conventional cytogenetic methods are used. Array-based comparative genomic hybridization (CGH) allows high-resolution screening of copy number abnormalities by hybridizing differentially labeled test and reference genomes to arrays of robotically spotted clones. To assess the applicability of this technique in the diagnosis of (sub)telomeric imbalances, we here describe a blinded study, in which DNA from 20 patients with known cytogenetic abnormalities involving one or more telomeres was hybridized to an array containing a validated set of human-chromosome-specific (sub)telomere probes. Single-copy-number gains and losses were accurately detected on these arrays, and an excellent concordance between the original cytogenetic diagnosis and the array-based CGH diagnosis was obtained by use of a single hybridization. In addition to the previously identified cytogenetic changes, array-based CGH revealed additional telomere rearrangements in 3 of the 20 patients studied. The robustness and simplicity of this array-based telomere copy-number screening make it highly suited for introduction into the clinic as a rapid and sensitive automated diagnostic procedure.",
         "token": [
             "High",
             "-",
@@ -9449,6 +9455,7 @@
     },
     {
         "id": "16086324",
+        "raw_text": "Comparison of yield and genotyping performance of multiple displacement amplification and OmniPlex whole genome amplified DNA generated from multiple DNA sources. The promise of whole genome amplification (WGA) is that genomic DNA (gDNA) quantity will not limit molecular genetic analyses. Multiple displacement amplification (MDA) and the OmniPlex PCR-based WGA protocols were evaluated using 4 and 5 ng of input gDNA from 60 gDNA samples from three tissue sources (mouthwash, buffy coat, and lymphoblast). WGA DNA (wgaDNA) yield and genotyping performance were evaluated using genotypes determined from gDNA and wgaDNA using the AmpFlSTR Identifiler assay and N = 49 TaqMan SNP assays. Short tandem repeat (STR) and SNP genotyping completion and concordance rates were significantly reduced with wgaDNA from all WGA methods compared with gDNA. OmniPlex wgaDNA exhibited a greater reduction in genotyping performance than MDA wgaDNA. Reduced wgaDNA genotyping performance was due to allelic (all protocols) and locus (OmniPlex) amplification bias leading to heterozygote and locus dropout, respectively, and %GC sequence content (%GC) was significantly correlated with TaqMan assay performance. Lymphoblast wgaDNA exhibited higher yield (OmniPlex), buffy coat wgaDNA exhibited higher STR genotyping completion (MDA), whereas mouthwash wgaDNA exhibited higher SNP genotyping discordance (MDA). Genotyping of wgaDNA generated from < or = 5 ng gDNA, e.g., from archaeological, forensic, prenatal diagnostic, or pathology samples, may require additional genotyping validation with gDNA and/or more sophisticated analysis of genotypes incorporating observed reductions in genotyping performance.",
         "token": [
             "Comparison",
             "of",
@@ -11284,6 +11291,7 @@
     },
     {
         "id": "9311748",
+        "raw_text": "Accurate inference of relationships in sib-pair linkage studies. Relative-pair designs are routinely employed in linkage studies of complex genetic diseases and quantitative traits. Valid application of these methods requires correct specification of the relationships of the pairs. For example, within a sibship, presumed full sibs actually might be MZ twins, half sibs, or unrelated. Misclassification of half-sib pairs or unrelated individuals as full sibs can result in reduced power to detect linkage. When other family members, such as parents or additional siblings, are available, incorrectly specified relationships usually will be detected through apparent incompatibilities with Mendelian inheritance. Without other family members, sibling relationships cannot be determined absolutely, but they still can be inferred probabilistically if sufficient genetic marker data are available. In this paper, we describe a simple likelihood ratio method to infer the true relationship of a putative sibling pair. We explore the number of markers required to accurately infer relationships typically encountered in a sib-pair study, as a function of marker allele frequencies, marker spacing, and genotyping error rate, and we conclude that very accurate inference of relationships can be achieved, given the marker data from even part of a genome scan. We compare our method to related methods of relationship inference that have been suggested. Finally, we demonstrate the value of excluding non-full sibs in a genetic linkage study of non-insulin-dependent diabetes mellitus.",
         "token": [
             "Accurate",
             "inference",
@@ -14943,6 +14951,7 @@
     },
     {
         "id": "22405084",
+        "raw_text": "2011 William Allan Award: development and evolution.",
         "token": [
             "2011",
             "William",
@@ -15590,6 +15599,7 @@
     },
     {
         "id": "20471002",
+        "raw_text": "Pooled association tests for rare variants in exon-resequencing studies. Deep sequencing will soon generate comprehensive sequence information in large disease samples. Although the power to detect association with an individual rare variant is limited, pooling variants by gene or pathway into a composite test provides an alternative strategy for identifying susceptibility genes. We describe a statistical method for detecting association of multiple rare variants in protein-coding genes with a quantitative or dichotomous trait. The approach is based on the regression of phenotypic values on individuals' genotype scores subject to a variable allele-frequency threshold, incorporating computational predictions of the functional effects of missense variants. Statistical significance is assessed by permutation testing with variable thresholds. We used a rigorous population-genetics simulation framework to evaluate the power of the method, and we applied the method to empirical sequencing data from three disease studies.",
         "token": [
             "Pooled",
             "association",
@@ -15915,6 +15925,7 @@
     },
     {
         "id": "10712193",
+        "raw_text": "James V. Neel, M.D., Ph.D. (March 22, 1915-January 31, 2000): founder effect.",
         "token": [
             "James",
             "V.",
@@ -21150,6 +21161,7 @@
     },
     {
         "id": "12970847",
+        "raw_text": "Recent advances in human quantitative-trait-locus mapping: comparison of methods for selected sibling pairs. During the past few years, there has been a great deal of new work on methods for mapping quantitative-trait loci by use of sibling pairs and sibships. There are several new methods based on linear regression, as well as several more that are based on score statistics. In theory, most of the new methods should be relatively robust to violations of distributional assumptions and to selected sampling, but, in practice, there has been little evaluation of how the methods perform on selected samples. We survey most of the new regression-based statistics and score statistics and propose a few minor variations on the score statistics. We use simulation to evaluate the type I error and the power of all of the statistics, considering (a) population samples of sibling pairs and (b) sibling pairs ascertained on the basis of at least one sibling with a trait value in the top 10% of the distribution. Most of the statistics have correct type I error for selected samples. The statistics proposed by Xu et al. and by Sham and Purcell are generally the most powerful, along with one of our score statistic variants. Even among the methods that are most powerful for \"nice\" data, some are more robust than others to non-Gaussian trait models and/or misspecified trait parameters.",
         "token": [
             "Recent",
             "advances",
@@ -23615,6 +23627,7 @@
     },
     {
         "id": "14658095",
+        "raw_text": "Linkage at 12q24 with systemic lupus erythematosus (SLE) is established and confirmed in Hispanic and European American families. Systemic lupus erythematosus (SLE) is a chronic, complex, and systemic human autoimmune disease, with both an environmental component and a heritable predisposition. Clinical studies, reinforced by epidemiology and genetics, show impressive variation in disease severity, expression, prevalence, and incidence by ethnicity and sex. To identify the novel SLE susceptibility loci, we performed a genomewide scan with 318 markers on 37 multiplex Hispanic families, using a nonparametric penetrance-independent affected-only allele-sharing method. Three chromosomal regions (12q24, 16p13, and 16q12-21) exceeded our predetermined threshold (Zlr>2.32; nominal P<.01) for further evaluation. Suspected linkages at 12q24, 16p13, and 16q12-21 were tested in an independent data set consisting of 92 European American (EA-1) and 55 African American (AA) families. The linkage at 12q24 was replicated in EA-1 (Zlr=3.06; P=.001) but not in AA (Zlr=0.37; P=.35). Although neither the 16p13 nor the 16q12-21 was confirmed in EA-1 or AA, the suggestive linkage (Zlr=3.06; P=.001) at 16q12-21 is sufficient to confirm the significant linkage, reported elsewhere, at this location. The evidence for linkage at 12q24 in the 129 combined (Hispanic and EA-1) families exceeded the threshold for genomewide significance (Zlr=4.39; P=5.7x10-6; nonparametric LOD=4.19). Parametric linkage analyses suggested a low-penetrance, dominant model (LOD=3.72). To confirm the linkage effect at 12q24, we performed linkage analysis in another set of 82 independent European American families (EA-2). The evidence for linkage was confirmed (Zlr=2.11; P=.017). Therefore, our results have detected, established, and confirmed the existence of a novel SLE susceptibility locus at 12q24 (designated \"SLEB4\") that may cause lupus, especially in Hispanic and European American families.",
         "token": [
             "Linkage",
             "at",
@@ -27310,6 +27323,7 @@
     },
     {
         "id": "16080112",
+        "raw_text": "Differential X reactivation in human placental cells: implications for reversal of X inactivation. X inactivation--the mammalian method of X chromosome dosage compensation--is extremely stable in human somatic cells; only fetal germ cells have a developmental program to reverse the process. The human placenta, at term, differs from other somatic tissues, since it has the ability to reverse the X-inactivation program. To determine whether reversal can be induced at other stages of placental development, we examined earlier placental specimens using a cell-hybridization assay. We found that global X reactivation is also inducible in villi cells from first-trimester spontaneous abortions but not from first-trimester elective terminations. These differences in inducibility are not associated with detectable variation in histone H4 acetylation, DNA methylation, or XIST expression--hallmarks of the inactivation process--so other factors must have a role. One notable feature is that the permissive cells, unlike nonpermissive ones, have ceased to proliferate in vivo and are either beginning or in the process of programmed cell death. Cessation of mitotic proliferation also characterizes oocytes at the stage at which they undergo X reactivation. We suggest that, along with undermethylation, the apoptotic changes accompanying cessation of cell proliferation contribute to the reversal of inactivation, not only in placental cells, but also in oocytes entering meiosis.",
         "token": [
             "Differential",
             "X",
@@ -30869,6 +30883,7 @@
     },
     {
         "id": "12596792",
+        "raw_text": "Simulation-based P values: response to North et al.",
         "token": [
             "Simulation",
             "-",
@@ -32236,6 +32251,7 @@
     },
     {
         "id": "7847368",
+        "raw_text": "Response to treatment in hereditary metabolic disease: 1993 survey and 10-year comparison. Knowledge about cause, pathogenesis, and manifestations of hereditary metabolic diseases puts them among the best known of all human diseases. On the other hand, outcomes of treatment are cause for uncertainty and concern. In 1985, Hayes et al. analyzed efficacy of treatment up to 1983 in 65 of these diseases selected randomly from the McKusick catalogs. Disease scores were calculated for seven parameters: longevity; reproductive capability; somatic and cognitive development; and handicaps affecting schooling, work, and cosmetic appearance. Scores of the untreated and treated phenotypes were then compared. We have now measured progress over the past decade by calculating scores on the same 65 diseases from data in several hundred new reports published since 1983. All seven parameters in the 1993 survey reflect improved efficacy of treatment in the 10-year interval. However, the percent of diseases for which all manifestations of the disease were removed by treatment has not changed (12% in 1983; 12% in 1993). The group in which manifestations were untouched by treatment has become smaller (48% in 1983; 31% in 1993), and the group partially ameliorated by treatment had increased reciprocally (40% in 1983; 57% in 1993). Progress in the treatment of hereditary metabolic disease is thus better than it was, but it is still only a partial success. The advances are attributable to greater success with organ and tissue transplantation, better pharmacotherapy, and better support systems. Restoration of normal homeostasis, the key to successful treatment, remains an elusive challenge and is a logical, major focus for research in human genetics.",
         "token": [
             "Response",
             "to",
@@ -32879,6 +32895,7 @@
     },
     {
         "id": "18950739",
+        "raw_text": "The Human Phenotype Ontology: a tool for annotating and analyzing human hereditary disease. There are many thousands of hereditary diseases in humans, each of which has a specific combination of phenotypic features, but computational analysis of phenotypic data has been hampered by lack of adequate computational data structures. Therefore, we have developed a Human Phenotype Ontology (HPO) with over 8000 terms representing individual phenotypic anomalies and have annotated all clinical entries in Online Mendelian Inheritance in Man with the terms of the HPO. We show that the HPO is able to capture phenotypic similarities between diseases in a useful and highly significant fashion.",
         "token": [
             "The",
             "Human",
@@ -33948,6 +33965,7 @@
     },
     {
         "id": "8037216",
+        "raw_text": "Comparison of statistics for candidate-gene association studies using cases and parents. Studies of association between candidate genes and disease can be designed to use cases with disease, and in place of nonrelated controls, their parents. The advantage of this design is the elimination of spurious differences due to ethnic differences between cases and nonrelated controls. However, several statistical methods of analysis have been proposed in the literature, and the choice of analysis is not always clear. We review some of the statistical methods currently developed and present two new statistical methods aimed at specific genetic hypotheses of dominance and recessivity of the candidate gene. These new methods can be more powerful than other current methods, as demonstrated by simulations. The basis of these new statistical methods is a likelihood approach. The advantage of the likelihood framework is that regression models can be developed to assess genotype-environment interactions, as well as the relative contribution that alleles at the candidate-gene locus make to the relative risk (RR) of disease. This latter development allows testing of (1) whether interactions between alleles exist, on the scale of log RR, and (2) whether alleles originating from the mother or father of a case impart different risks, i.e., genomic imprinting.",
         "token": [
             "Comparison",
             "of",
@@ -34987,6 +35005,7 @@
     },
     {
         "id": "10577916",
+        "raw_text": "Variation in short tandem repeats is deeply structured by genetic background on the human Y chromosome. Eleven biallelic polymorphisms and seven short-tandem-repeat (STR) loci mapping on the nonrecombining portion of the human Y chromosome have been typed in men from northwestern Africa. Analysis of the biallelic markers, which represent probable unique events in human evolution, allowed us to characterize the stable backgrounds or haplogroups of Y chromosomes that prevail in this geographic region. Variation in the more rapidly mutating genetic markers (STRs) has been used both to estimate the time to the most recent common ancestor for STR variability within these stable backgrounds and to explore whether STR differentiation among haplogroups still retains information about their phylogeny. When analysis of molecular variance was used to study the apportionment of STR variation among both genetic backgrounds (i.e., those defined by haplogroups) and population backgrounds, we found STR variability to be clearly structured by haplogroups. More than 80% of the genetic variance was found among haplogroups, whereas only 3.72% of the genetic variation could be attributed to differences among populations-that is, genetic variability appears to be much more structured by lineage than by population. This was confirmed when two population samples from the Iberian Peninsula were added to the analysis. The deep structure of the genetic variation in old genealogical units (haplogroups) challenges a population-based perspective in the comprehension of human genome diversity. A population may be better understood as an association of lineages from a deep and population-independent gene genealogy, rather than as a complete evolutionary unit.",
         "token": [
             "Variation",
             "in",
@@ -35578,6 +35597,7 @@
     },
     {
         "id": "8503437",
+        "raw_text": "X-linked mental retardation: in pursuit of a gene map.",
         "token": [
             "X",
             "-",
@@ -36349,6 +36369,7 @@
     },
     {
         "id": "15309688",
+        "raw_text": "The Longue Dur\u00e9e of genetic ancestry: multiple genetic marker systems and Celtic origins on the Atlantic facade of Europe. Celtic languages are now spoken only on the Atlantic facade of Europe, mainly in Britain and Ireland, but were spoken more widely in western and central Europe until the collapse of the Roman Empire in the first millennium a.d. It has been common to couple archaeological evidence for the expansion of Iron Age elites in central Europe with the dispersal of these languages and of Celtic ethnicity and to posit a central European \"homeland\" for the Celtic peoples. More recently, however, archaeologists have questioned this \"migrationist\" view of Celtic ethnogenesis. The proposition of a central European ancestry should be testable by examining the distribution of genetic markers; however, although Y-chromosome patterns in Atlantic Europe show little evidence of central European influence, there has hitherto been insufficient data to confirm this by use of mitochondrial DNA (mtDNA). Here, we present both new mtDNA data from Ireland and a novel analysis of a greatly enlarged European mtDNA database. We show that mtDNA lineages, when analyzed in sufficiently large numbers, display patterns significantly similar to a large fraction of both Y-chromosome and autosomal variation. These multiple genetic marker systems indicate a shared ancestry throughout the Atlantic zone, from northern Iberia to western Scandinavia, that dates back to the end of the last Ice Age.",
         "token": [
             "The",
             "Longue",
@@ -37292,6 +37313,7 @@
     },
     {
         "id": "7912883",
+        "raw_text": "The genetics of human limb development.",
         "token": [
             "The",
             "genetics",
@@ -37313,6 +37335,7 @@
     },
     {
         "id": "19626718",
+        "raw_text": "Insights into the importance of miRNA-related polymorphisms to heart disease.",
         "token": [
             "Insights",
             "into",
@@ -37346,6 +37369,7 @@
     },
     {
         "id": "8318989",
+        "raw_text": "Screening for molecular pathologies in Lesch-Nyhan syndrome. Heteroduplex detection by hydrolink gel electrophoresis was performed to screen for small mutations in 12 Lesch-Nyhan syndrome families with characterised molecular pathology which included nine point mutations, two small deletions, and a 1-bp insertion. This modified protocol for heteroduplex detection by hydrolink gel electrophoresis detected all 12 of these mutations and was utilised to rapidly determine the carrier status of females from affected families. On the basis of these results this approach appears to be a rapid and reliable screening method for point mutations in addition to small length mutations and for carrier detection in Lesch-Nyhan syndrome.",
         "token": [
             "Screening",
             "for",
@@ -37589,6 +37613,7 @@
     },
     {
         "id": "21280151",
+        "raw_text": "Searching for the missing heritability of complex diseases.",
         "token": [
             "Searching",
             "for",
@@ -37916,6 +37941,7 @@
     },
     {
         "id": "15053010",
+        "raw_text": "2003 Curt Stern Award address. On low expectation exceeded; or, the genomic salvation of the Y chromosome.",
         "token": [
             "2003",
             "Curt",
@@ -37965,6 +37991,7 @@
     },
     {
         "id": "21944045",
+        "raw_text": "Denisova admixture and the first modern human dispersals into Southeast Asia and Oceania. It has recently been shown that ancestors of New Guineans and Bougainville Islanders have inherited a proportion of their ancestry from Denisovans, an archaic hominin group from Siberia. However, only a sparse sampling of populations from Southeast Asia and Oceania were analyzed. Here, we quantify Denisova admixture in 33 additional populations from Asia and Oceania. Aboriginal Australians, Near Oceanians, Polynesians, Fijians, east Indonesians, and Mamanwa (a \"Negrito\" group from the Philippines) have all inherited genetic material from Denisovans, but mainland East Asians, western Indonesians, Jehai (a Negrito group from Malaysia), and Onge (a Negrito group from the Andaman Islands) have not. These results indicate that Denisova gene flow occurred into the common ancestors of New Guineans, Australians, and Mamanwa but not into the ancestors of the Jehai and Onge and suggest that relatives of present-day East Asians were not in Southeast Asia when the Denisova gene flow occurred. Our finding that descendants of the earliest inhabitants of Southeast Asia do not all harbor Denisova admixture is inconsistent with a history in which the Denisova interbreeding occurred in mainland Asia and then spread over Southeast Asia, leading to all its earliest modern human inhabitants. Instead, the data can be most parsimoniously explained if the Denisova gene flow occurred in Southeast Asia itself. Thus, archaic Denisovans must have lived over an extraordinarily broad geographic and ecological range, from Siberia to tropical Asia.",
         "token": [
             "Denisova",
             "admixture",
@@ -38532,6 +38559,7 @@
     },
     {
         "id": "1284474",
+        "raw_text": "Mutation creating a new splice site in the growth hormone receptor genes of 37 Ecuadorean patients with Laron syndrome. Laron syndrome is an autosomal recessive condition characterized by resistance to growth hormone. We sought to determine the molecular basis of this condition in an Ecuadorean population with a high incidence of affected individuals. Growth hormone receptor gene sequences from an obligate heterozygote were amplified by the polymerase chain reaction and screened for mutations using denaturing gradient gel electrophoresis. Only exon 6 revealed homo- and heteroduplexes on denaturing gradient gels. Sequencing revealed a substitution of guanine for adenine in the third position of codon 180 that did not change the amino acid encoded. Sequencing of the exon 6-exon 7 splice junction from RNA-polymerase chain reaction amplified cellular RNA of an affected individual revealed that the substitution activates a 5' splice site 24 nucleotides upstream from the normal exon 6-intron 6 boundary. Splicing in two probands' lymphoblasts occurred virtually exclusively at the abnormal 5' splice site created by the codon 180 substitution. Exon 6 sequences from 38 patients and 47 relatives were amplified and analyzed by sequencing or dot-blot hybridization with allele-specific oligonucleotides. The substitution was detected in 74 of 76 Laron syndrome patients' GH-receptor alleles. All 26 parents and 12 of 21 unaffected siblings were heterozygous for this mutation. It was absent in 61 unrelated unaffected control individuals. We conclude that the codon 180 nucleotide substitution probably causes Laron syndrome as translation of the observed, abnormally spliced growth hormone receptor transcript would lead to the synthesis of a receptor protein with an 8 amino acid deletion from the extracellular domain.",
         "token": [
             "Mutation",
             "creating",
@@ -39785,6 +39813,7 @@
     },
     {
         "id": "18423522",
+        "raw_text": "Estimating odds ratios in genome scans: an approximate conditional likelihood approach. In modern whole-genome scans, the use of stringent thresholds to control the genome-wide testing error distorts the estimation process, producing estimated effect sizes that may be on average far greater in magnitude than the true effect sizes. We introduce a method, based on the estimate of genetic effect and its standard error as reported by standard statistical software, to correct for this bias in case-control association studies. Our approach is widely applicable, is far easier to implement than competing approaches, and may often be applied to published studies without access to the original data. We evaluate the performance of our approach via extensive simulations for a range of genetic models, minor allele frequencies, and genetic effect sizes. Compared to the naive estimation procedure, our approach reduces the bias and the mean squared error, especially for modest effect sizes. We also develop a principled method to construct confidence intervals for the genetic effect that acknowledges the conditioning on statistical significance. Our approach is described in the specific context of odds ratios and logistic modeling but is more widely applicable. Application to recently published data sets demonstrates the relevance of our approach to modern genome scans.",
         "token": [
             "Estimating",
             "odds",
@@ -40822,6 +40851,7 @@
     },
     {
         "id": "7550228",
+        "raw_text": "Detection and genetic analysis of beta-thalassemia mutations by competitive oligopriming. A new approach for the detection of beta-thalassemia mutations has been applied, based on competitive oligonucleotide priming (COP) of in vitro DNA amplification at the mutation site. This method allows genotyping of the template DNA, through differential labeling of the allele-specific competitive oligoprimers and biotinylation of the common reverse primer. The system provides a basis for rapid, simple, and reliable detection of the numerous known beta-thalassemia mutations, revealing the precise nature of the mismatch in each case, and thereby facilitating the molecular genetic analysis of the disease.",
         "token": [
             "Detection",
             "and",
@@ -41653,6 +41683,7 @@
     },
     {
         "id": "17924341",
+        "raw_text": "Fine mapping versus replication in whole-genome association studies. Association replication studies have a poor track record and, even when successful, often claim association with different markers, alleles, and phenotypes than those reported in the primary study. It is unknown whether these outcomes reflect genuine associations or false-positive results. A greater understanding of these observations is essential for genomewide association (GWA) studies, since they have the potential to identify multiple new associations that that will require external validation. Theoretically, a repeat association with precisely the same variant in an independent sample is the gold standard for replication, but testing additional variants is commonplace in replication studies. Finding different associated SNPs within the same gene or region as that originally identified is often reported as confirmatory evidence. Here, we compare the probability of replicating a gene or region under two commonly used marker-selection strategies: an \"exact\" approach that involves only the originally significant markers and a \"local\" approach that involves both the originally significant markers and others in the same region. When a region of high intermarker linkage disequilibrium is tested to replicate an initial finding that is only weak association with disease, the local approach is a good strategy. Otherwise, the most powerful and efficient strategy for replication involves testing only the initially identified variants. Association with a marker other than that originally identified can occur frequently, even in the presence of real effects in a low-powered replication study, and instances of such association increase as the number of included variants increases. Our results provide a basis for the design and interpretation of GWA replication studies and point to the importance of a clear distinction between fine mapping and replication after GWA.",
         "token": [
             "Fine",
             "mapping",
@@ -43090,6 +43121,7 @@
     },
     {
         "id": "20466092",
+        "raw_text": "The number of markers in the HapMap project: some notes on chi-square and exact tests for Hardy-Weinberg equilibrium.",
         "token": [
             "The",
             "number",
@@ -43145,6 +43177,7 @@
     },
     {
         "id": "19012875",
+        "raw_text": "Divergence between human populations estimated from linkage disequilibrium. Observed linkage disequilibrium (LD) between genetic markers in different populations descended independently from a common ancestral population can be used to estimate their absolute time of divergence, because the correlation of LD between populations will be reduced each generation by an amount that, approximately, depends only on the recombination rate between markers. Although drift leads to divergence in allele frequencies, it has less effect on divergence in LD values. We derived the relationship between LD and time of divergence and verified it with coalescent simulations. We then used HapMap Phase II data to estimate time of divergence between human populations. Summed over large numbers of pairs of loci, we find a positive correlation of LD between African and non-African populations at levels of up to approximately 0.3 cM. We estimate that the observed correlation of LD is consistent with an effective separation time of approximately 1,000 generations or approximately 25,000 years before present. The most likely explanation for such relatively low separation times is the existence of substantial levels of migration between populations after the initial separation. Theory and results from coalescent simulations confirm that low levels of migration can lead to a downward bias in the estimate of separation time.",
         "token": [
             "Divergence",
             "between",
@@ -43604,6 +43637,7 @@
     },
     {
         "id": "10090915",
+        "raw_text": "Prevalence of Bloom syndrome heterozygotes among Ashkenazi Jews.",
         "token": [
             "Prevalence",
             "of",
@@ -44095,6 +44129,7 @@
     },
     {
         "id": "16826523",
+        "raw_text": "Submicroscopic deletion in patients with Williams-Beuren syndrome influences expression levels of the nonhemizygous flanking genes. Genomic imbalance is a common cause of phenotypic abnormalities. We measured the relative expression level of genes that map within the microdeletion that causes Williams-Beuren syndrome and within its flanking regions. We found, unexpectedly, that not only hemizygous genes but also normal-copy neighboring genes show decreased relative levels of expression. Our results suggest that not only the aneuploid genes but also the flanking genes that map several megabases away from a genomic rearrangement should be considered possible contributors to the phenotypic variation in genomic disorders.",
         "token": [
             "Submicroscopic",
             "deletion",
@@ -44834,6 +44869,7 @@
     },
     {
         "id": "14740322",
+        "raw_text": "PBAT: tools for family-based association studies.",
         "token": [
             "PBAT",
             ":",
@@ -44861,6 +44897,7 @@
     },
     {
         "id": "9452089",
+        "raw_text": "3' Acceptor splice site mutation in intron 50 leads to mild Duchenne muscular dystrophy phenotype.",
         "token": [
             "3",
             "'",
@@ -44902,6 +44939,7 @@
     },
     {
         "id": "18439549",
+        "raw_text": "The dawn of human matrilineal diversity. The quest to explain demographic history during the early part of human evolution has been limited because of the scarce paleoanthropological record from the Middle Stone Age. To shed light on the structure of the mitochondrial DNA (mtDNA) phylogeny at the dawn of Homo sapiens, we constructed a matrilineal tree composed of 624 complete mtDNA genomes from sub-Saharan Hg L lineages. We paid particular attention to the Khoi and San (Khoisan) people of South Africa because they are considered to be a unique relic of hunter-gatherer lifestyle and to carry paternal and maternal lineages belonging to the deepest clades known among modern humans. Both the tree phylogeny and coalescence calculations suggest that Khoisan matrilineal ancestry diverged from the rest of the human mtDNA pool 90,000-150,000 years before present (ybp) and that at least five additional, currently extant maternal lineages existed during this period in parallel. Furthermore, we estimate that a minimum of 40 other evolutionarily successful lineages flourished in sub-Saharan Africa during the period of modern human dispersal out of Africa approximately 60,000-70,000 ybp. Only much later, at the beginning of the Late Stone Age, about 40,000 ybp, did introgression of additional lineages occur into the Khoisan mtDNA pool. This process was further accelerated during the recent Bantu expansions. Our results suggest that the early settlement of humans in Africa was already matrilineally structured and involved small, separately evolving isolated populations.",
         "token": [
             "The",
             "dawn",
@@ -46659,6 +46697,7 @@
     },
     {
         "id": "10677321",
+        "raw_text": "A coalescent approach to study linkage disequilibrium between single-nucleotide polymorphisms. We present the results of extensive simulations that emulate the development and distribution of linkage disequilibrium (LD) between single-nucleotide polymorphisms (SNPs) and a gene locus that is phenotypically stratified into two classes (disease phenotype and wild-type phenotype). Our approach, based on coalescence theory, allows an explicit modeling of the demographic history of the population without conditioning on the age of the mutation, and serves as an efficient tool to carry out simulations. More specifically, we compare the influence that a constant population size or an exponentially growing population has on the amount of LD. These results indicate that attempts to locate single disease genes are most likely successful in small and constant populations. On the other hand, if we consider an exponentially growing population that started to expand from an initially constant population of reasonable size, then our simulations indicate a lower success rate. The power to detect association is enhanced if haplotypes constructed from several SNPs are used as markers. The versatility of the coalescence approach also allows the analysis of other relevant factors that influence the chances that a disease gene will be located. We show that several alleles leading to the same disease have no substantial influence on the amount of LD, as long as the differences between the disease-causing alleles are confined to the same region of the gene locus and as long as each allele occurs in an appreciable frequency. Our simulations indicate that mapping of less-frequent diseases is more likely to be successful. Moreover, we show that successful attempts to map complex diseases depend crucially on the phenotype-genotype correlations of all alleles at the disease locus. An analysis of lipoprotein lipase data indicates that our simulations capture the major features of LD occurring in biological data.",
         "token": [
             "A",
             "coalescent",
@@ -48016,6 +48055,7 @@
     },
     {
         "id": "14505274",
+        "raw_text": "An Alu transposition model for the origin and expansion of human segmental duplications. Relative to genomes of other sequenced organisms, the human genome appears particularly enriched for large, highly homologous segmental duplications (> or =90% sequence identity and > or =10 kbp in length). The molecular basis for this enrichment is unknown. We sought to gain insight into the mechanism of origin, by systematically examining sequence features at the junctions of duplications. We analyzed 9,464 junctions within regions of high-quality finished sequence from a genomewide set of 2,366 duplication alignments. We observed a highly significant (P<.0001) enrichment of Alu short interspersed element (SINE) sequences near or within the junction. Twenty-seven percent of all segmental duplications terminated within an Alu repeat. The Alu junction enrichment was most pronounced for interspersed segmental duplications separated by > or =1 Mb of intervening sequence. Alu elements at the junctions showed higher levels of divergence, consistent with Alu-Alu-mediated recombination events. When we classified Alu elements into major subfamilies, younger elements (AluY and AluS) accounted for the enrichment, whereas the oldest primate family (AluJ) showed no enrichment. We propose that the primate-specific burst of Alu retroposition activity (which occurred 35-40 million years ago) sensitized the ancestral human genome for Alu-Alu-mediated recombination events, which, in turn, initiated the expansion of gene-rich segmental duplications and their subsequent role in nonallelic homologous recombination.",
         "token": [
             "An",
             "Alu",
@@ -48579,6 +48619,7 @@
     },
     {
         "id": "15338458",
+        "raw_text": "Conventional multipoint nonparametric linkage analysis is not necessarily inherently biased.",
         "token": [
             "Conventional",
             "multipoint",
@@ -48608,6 +48649,7 @@
     },
     {
         "id": "12900794",
+        "raw_text": "A full-likelihood method for the evaluation of causality of sequence variants from family data. In many disease genes, a substantial fraction of all rare variants detected cannot yet be used for genetic counselling because of uncertainty about their association with disease. One approach to the characterization of these unclassified variants is the analysis of patterns of cosegregation with disease in affected carrier families. Petersen et al. previously provided a simplistic Bayesian method for evaluation of causality of such sequence variants. In the present report, we propose a more general method based on the full pedigree likelihood, and we show that the use of this method can provide more accurate and informative assessment of causality than could the previous method. We further show that it is important that the pedigree information be as complete as possible and that the distinction be made between unaffected individuals and those of unknown phenotype.",
         "token": [
             "A",
             "full",
@@ -49623,6 +49665,7 @@
     },
     {
         "id": "16960800",
+        "raw_text": "A genomewide single-nucleotide-polymorphism panel with high ancestry information for African American admixture mapping. Admixture mapping requires a genomewide panel of relatively evenly spaced markers that can distinguish the ancestral origins of chromosomal segments in admixed individuals. Through use of the results of the International HapMap Project and specific selection criteria, the current study has examined the ability of selected single-nucleotide polymorphisms (SNPs) to extract continental ancestry information in African American subjects and to explore parameters for admixture mapping. Genotyping of two linguistically diverse West African populations (Bini and Kanuri Nigerians, who are Niger-Congo [Bantu] and Nilo-Saharan speakers, respectively), European Americans, and African Americans validated a genomewide set of >4,000 SNP ancestry-informative markers with mean and median F(ST) values >0.59 and mean and median Fisher's information content >2.5. This set of SNPs extracted a larger amount of ancestry information in African Americans than previously reported SNP panels and provides nearly uniform coverage of the genome. Moreover, in the current study, simulations show that this more informative panel improves power for admixture mapping in African Americans when ethnicity risk ratios are modest. This is particularly important in the application of admixture mapping in complex genetic diseases for which only modest ethnicity risk ratios of relevant susceptibility genes are expected.",
         "token": [
             "A",
             "genomewide",
@@ -51266,6 +51309,7 @@
     },
     {
         "id": "10775524",
+        "raw_text": "Identification of uniparental disomy following prenatal detection of Robertsonian translocations and isochromosomes. Rearrangements of the acrocentric chromosomes (Robertsonian translocations and isochromosomes) are associated with an increased risk of aneuploidy. Given this, and the large number of reported cases of uniparental disomy (UPD) associated with an acrocentric rearrangement, carriers are presumed to be at risk for UPD. However, an accurate risk estimate for UPD associated with these rearrangements is lacking. A total of 174 prenatally identified acrocentric rearrangements, including both Robertsonian translocations and isochromosomes, were studied prospectively to identify UPD for the chromosomes involved in the rearrangements. The overall goal of the study was to provide an estimate of the risk of UPD associated with nonhomologous Robertsonian translocations and homologous acrocentric rearrangements. Of the 168 nonhomologous Robertsonian translocations studied, one showed UPD for chromosome 13, providing a risk estimate of 0.6%. Four of the six homologous acrocentric rearrangements showed UPD, providing a risk estimate of 66%. These cases have also allowed delineation of the mechanisms involved in producing UPD unique to Robertsonian translocations. Given the relatively high risk for UPD in prenatally identified Robertsonian translocations and isochromosomes, UPD testing should be considered, especially for cases involving the acrocentric chromosomes 14 and 15, in which UPD is associated with adverse clinical outcomes.",
         "token": [
             "Identification",
             "of",
@@ -53249,6 +53293,7 @@
     },
     {
         "id": "17503322",
+        "raw_text": "A genomewide admixture map for Latino populations. Admixture mapping is an economical and powerful approach for localizing disease genes in populations of recently mixed ancestry and has proven successful in African Americans. The method holds equal promise for Latinos, who typically inherit a mix of European, Native American, and African ancestry. However, admixture mapping in Latinos has not been practical because of the lack of a map of ancestry-informative markers validated in Native American and other populations. To address this, we screened multiple databases, containing millions of markers, to identify 4,186 markers that were putatively informative for determining the ancestry of chromosomal segments in Latino populations. We experimentally validated each of these markers in at least 232 new Latino, European, Native American, and African samples, and we selected a subset of 1,649 markers to form an admixture map. An advantage of our strategy is that we focused our map on markers distinguishing Native American from other ancestries and restricted it to markers with very similar frequencies in Europeans and Africans, which decreased the number of markers needed and minimized the possibility of false disease associations. We evaluated the effectiveness of our map for localizing disease genes in four Latino populations from both North and South America.",
         "token": [
             "A",
             "genomewide",
@@ -54196,6 +54241,7 @@
     },
     {
         "id": "8116620",
+        "raw_text": "Identification of internal variation in the pseudoautosomal VNTR DXYS17, with nonrandom distribution of the alleles on the X and the Y chromosomes. The PCR technique was used to analyze the DXYS17 locus in the pseudoautosomal region of the X and the Y chromosomes. Analysis on an automated DNA sequencer allowed for sensitive and highly accurate typing of 16 different alleles with a size between 480 and 1,100 bp. Two DXYS17 alleles migrated with the same size on agarose or denaturing polyacrylamide gels but with different mobilities on nondenaturing polyacrylamide gels. Sequence analysis showed that, while an identical number of repeats were present in both alleles, differences in the composition of the units were observed. The origin of these differences was found in the 28- and 33-bp units, which only had a specific repeat pattern at the 5' and 3' ends of the region. The genotype distribution for DXYS17 in a Caucasian population did not deviate from the values expected under Hardy-Weinberg equilibrium. However, the frequency of one allele and one genotype was significantly different between males and females. Segregation analysis showed that this difference was the result of a nonrandom distribution of certain alleles on the sex chromosomes in males.",
         "token": [
             "Identification",
             "of",
@@ -55953,6 +55999,7 @@
     },
     {
         "id": "7942859",
+        "raw_text": "The power of interval mapping of quantitative trait loci, using selected sib pairs. The interval-mapping procedure of Fulker and Cardon for analysis of a quantitative-trait loci (QTL) is extended for application to selected samples of sib pairs. Phenotypic selection of sib pairs, which is known to yield striking increases in power when a single marker is used, provides further increases in power when the interval-mapping approach is used. The greatest benefits of the combined approach are apparent with coarse maps, where QTLs of relatively modest (15%-20%) heritability can be detected with widely spaced markers (40-60 cM apart) in reasonably sized sibling samples. Useful information concerning QTL location is afforded by interval mapping in both selected and unselected samples.",
         "token": [
             "The",
             "power",
